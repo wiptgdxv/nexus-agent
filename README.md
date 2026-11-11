@@ -1,4 +1,4 @@
-# NexusAgent —— 从零手写 Go 智能体平台
+# NexusAgent —— Go 智能体平台
 
 
 NexusAgent 是一个**通用智能体（Agent）平台**，覆盖了 Agent 开发的主线能力：
